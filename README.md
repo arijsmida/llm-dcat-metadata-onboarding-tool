@@ -161,9 +161,13 @@ Example description:
 
 > This dataset contains online retail transactions from a European e-commerce platform. It includes customer information, purchased products, quantities, prices, and transaction dates.
 
-![Main Interface](docs/screenshots/02_home_page.png)
+<p align="center">
+<img src="docs/screenshots/02_home_page.png" width="900">
+</p>
 
-*Figure 1. Main interface of the metadata onboarding tool.*
+<p align="center">
+<b>Figure 1.</b> Main interface of the metadata onboarding tool.
+</p>
 
 ---
 
