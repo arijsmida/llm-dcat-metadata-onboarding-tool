@@ -162,7 +162,7 @@ Example description:
 > This dataset contains online retail transactions from a European e-commerce platform. It includes customer information, purchased products, quantities, prices, and transaction dates.
 
 <p align="center">
-<img src="interface .png" width="900">
+<img src="docs/screenshots/02_home_page.png" width="900">
 </p>
 
 <p align="center">
@@ -199,7 +199,7 @@ Users can review and modify fields including:
 This validation step ensures that the generated metadata accurately represents the dataset before it is exported.
 
 <p align="center">
-<img src="metadata_review.png" width="900">
+<img src="docs/screenshots/03_metadata_review.png" width="900">
 </p>
 
 <p align="center">
@@ -220,7 +220,7 @@ After confirming the metadata, the application generates:
 The JSON output contains the generated DCAT-compatible metadata in a structured format. In this example, the tool generated metadata for a retail sales transactions dataset, including the title, description, keywords, theme, and other DCAT-related fields.
 
 <p align="center">
-<img src="json_output.png" width="900">
+<img src="docs/screenshots/04_json_output.png" width="900">
 </p>
 
 <p align="center">
@@ -232,7 +232,7 @@ The JSON output contains the generated DCAT-compatible metadata in a structured 
 The application also generates an RDF/Turtle representation using the DCAT vocabulary. This semantic representation can be integrated into data catalogs and other metadata management systems that support RDF.
 
 <p align="center">
-<img src="rdf_output.png" width="900">
+<img src="docs/screenshots/05_rdf_output.png" width="900">
 </p>
 
 <p align="center">
